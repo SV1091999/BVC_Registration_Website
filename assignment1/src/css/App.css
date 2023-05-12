@@ -1,0 +1,23 @@
+body {
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+    background-color:green;
+
+  }
+
+
+.myroute{
+ padding-left: 10px;
+ padding-right: 10px;
+ border: solid 2px red;
+ text-decoration: none;
+ color: wheat;
+ margin: 5px;
+ text-align: center;
+}
+
+.div-wrapper{
+  margin-top: 27px;
+}
